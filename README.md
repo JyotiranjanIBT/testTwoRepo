@@ -1,0 +1,2 @@
+# testTwoRepo
+use as submodule
